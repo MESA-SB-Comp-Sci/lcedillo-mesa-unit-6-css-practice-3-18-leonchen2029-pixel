@@ -1,0 +1,20 @@
+header{
+    background-color:black;
+}
+h1{
+    color:white;
+    text-align:center;
+}
+p{
+    color:white;
+    text-align:center;
+}
+main{
+    background-color:blueviolet;
+}
+footer{
+    background-image:url(Adam-Kool.jpg)
+}
+body{
+    background-color: blueviolet;
+}
